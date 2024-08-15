@@ -1,15 +1,15 @@
 # Banker-Chatbot-AWS-Lambda-Lex
 
 Meet my BankerBot, a new virtual banking assistant. Here’s what it can do:
-Check your balance 📋
-Transfer funds 🔄
+- Check your balance 📋
+- Transfer funds 🔄
 
 How it was built:
-Set up Amazon Lex for a friendly welcome
-Create intents to check account balances
-Use Lambda to generate random balances
-Implement context carryover for a more personalized experience
-Enable fund transfers and leverage AWS CloudFormation to manage resources efficiently
+- Set up Amazon Lex for a friendly welcome
+- Create intents to check account balances
+- Use Lambda to generate random balances
+- Implement context carryover for a more personalized experience
+- Enable fund transfers and leverage AWS CloudFormation to manage resources efficiently
 
 Here’s what I learnt while building my chatbot:
 🎯 Defined Intents & Utterances: Set up core intents in Amazon Lex and created various phrases for the bot to understand different user requests.
